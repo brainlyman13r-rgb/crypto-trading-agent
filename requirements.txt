@@ -1,0 +1,38 @@
+# Core Exchange & Data
+ccxt==4.3.41
+pandas==2.2.0
+numpy==1.24.3
+pandas-ta==0.3.14b0
+
+# LLM & AI
+openai==1.14.0
+anthropic==0.28.0
+pydantic==2.6.0
+pydantic-settings==2.1.0
+
+# Memory & Vector DB
+chromadb==0.4.22
+sqlalchemy==2.0.24
+
+# Data Processing
+pyarrow==14.0.1
+aiohttp==3.9.1
+requests==2.31.0
+
+# Config & Logging
+pyyaml==6.0.1
+python-dotenv==1.0.0
+structlog==24.1.0
+
+# Testing & Backtesting
+pytest==7.4.3
+pytest-asyncio==0.23.1
+backtrader==1.9.94.123
+
+# Utilities
+typing-extensions==4.9.0
+python-dateutil==2.8.2
+pytz==2024.1
+
+# Optional: For advanced market data
+alpaca-trade-api==2.0.0
